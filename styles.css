@@ -84,5 +84,9 @@ h3{
   cite{
     font-size: 12px;
   }
-  
 }
+ @media (min-width:1440px) and (max-width:2000px) {
+    #image{
+      width: 100%;
+    }
+  }
